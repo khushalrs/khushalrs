@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushalrs
 - 👀 I’m interested in AI, ML and Android Development
-- 🌱 I’m currently learning Java, Python and SQL
+- 🌱 I’m currently learning Computer vision, deep learning and language models.
 - 💞️ I’m looking to collaborate on some Python Projects
 - 📫 How to reach me - khushalrs@gmail.com
 
